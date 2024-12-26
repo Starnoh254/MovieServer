@@ -1,0 +1,22 @@
+{
+  "name": "movieserver",
+  "version": "1.0.0",
+  "description": "A private server for my movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starnoh254/MovieServer.git"
+  },
+  "author": "Starnoh John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starnoh254/MovieServer/issues"
+  },
+  "homepage": "https://github.com/Starnoh254/MovieServer#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
